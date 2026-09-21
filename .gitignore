@@ -4,3 +4,18 @@
 
 /.vs
 /Project1/.vs/Project1
+x64/
+Debug/
+Release/
+*.tlog
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.ipch
+*.sqlite
+*.db
+*.db-shm
+*.db-wal
+*.bin
